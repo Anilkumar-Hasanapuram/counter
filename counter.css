@@ -1,0 +1,30 @@
+body
+{
+  font-size:35px;
+}
+.button
+{
+    background-color: rgb(16, 20, 20);
+    color:white;
+    border: none;
+    border-radius: 30px;
+    padding-top: 5px;
+    padding-bottom:5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-size: 20px;
+}
+.akdiv
+{
+  align-items: center;
+  margin-top: 15%;
+}
+.result
+{
+  border: none;
+  margin: auto;
+  width: 20px;
+  height: 20px;
+  padding: 10px;
+  font-size: 50px;
+}
